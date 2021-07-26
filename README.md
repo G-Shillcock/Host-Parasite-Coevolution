@@ -18,4 +18,17 @@ The Demo takes around 2 minutes to run on a laptop equipt with an Intel Core i9-
 
 ## Instructions for Use
 
-To explore the parameter space further 
+To explore the parameter space further the biological parameters (lines 36-40) can be changed. The table below matches the variable names given in the paper to those found in the code script.
+
+| Code name |  Paper name   | Biological interpretation                                  |
+|:---------:|:-------------:|:----------------------------------------------------------:|
+|     b     | b<sub>0</sub> | birth rate of infectives in the absence of immune response |
+|     u     |       μ       | background mortality rate                                  |
+|  nvals/n  |       n       | transmissibility exponent                                  |
+| lambdas/l |       λ       | cost to the host to clear the infection                    |
+|  vvals/v  |       v       | vertical transmission probability                          |
+
+
+
+
+
