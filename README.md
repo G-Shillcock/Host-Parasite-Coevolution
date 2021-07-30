@@ -6,7 +6,7 @@ Information regarding the custom computer code (mathematical algorithms) used in
 
 Mathematical algorithms require Python 3.6 or higher. Specific libraries required are NumPy 1.19.2, Matplotlib and csv which come by default when one downloads and installs the Python 3.x version of the Anaconda data science toolkit (available for free [here](https://anaconda.org/ "Anaconda's Homepage")). Anaconda supports Windows, Mac and Linux operating systems. Its installation takes around 15 minutes. Algorithms were tested in a Jupyter Notebook with Python 3.8.5.
 
-Some ancillary results discussed in ```Host_Parasite_Coevolution.pynb``` were derived using the symbolic computer algebra package Maple, which can be purchased [here](https://www.maplesoft.com/pricing/). Often academic institutions have site licenses available to faculty and students free of charge.
+Some ancillary results were derived in ```cubic_coefficients.mws``` which using the symbolic computer algebra package Maple. This can be purchased [here](https://www.maplesoft.com/pricing/), however please note that often academic institutions have site licenses available to faculty and students free of charge.
 
 All hardware used was typical to a standard desktop or laptop computer.
 
