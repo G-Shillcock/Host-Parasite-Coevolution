@@ -3,7 +3,7 @@ Information regarding the custom computer code (mathematical algorithms) used in
 
 ## System Requirements
 
-Mathematical algorithms require Python 3.6 or higher. Specific libraries required are NumPy, Matplotlib and csv which come by default when one downloads and installs the Python 3.x version of the Anaconda data science toolkit (available for free [here](https://anaconda.org/ "Anaconda's Homepage")). Anaconda supports Windows, Mac and Linux operating systems. Its installation takes around 15 minutes. Algorithms were tested in a Jupyter Notebook with Python 3.8.5. All hardware used was typical to a standard desktop or laptop computer.
+Mathematical algorithms require Python 3.6 or higher. Specific libraries required are NumPy 1.19.2, Matplotlib and csv which come by default when one downloads and installs the Python 3.x version of the Anaconda data science toolkit (available for free [here](https://anaconda.org/ "Anaconda's Homepage")). Anaconda supports Windows, Mac and Linux operating systems. Its installation takes around 15 minutes. Algorithms were tested in a Jupyter Notebook with Python 3.8.5. All hardware used was typical to a standard desktop or laptop computer.
 
 ## Installation Guide
 
