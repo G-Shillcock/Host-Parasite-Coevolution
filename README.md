@@ -1,10 +1,10 @@
 # Host Parasite Coevolution
-Information regarding the custom computer code (mathematical algorithms) used in Wild et al.
+Information regarding the custom computer code (mathematical algorithms) used in Shillcock et al.
 
 
 ## System Requirements
 
-Mathematical algorithms require Python 3.6 or higher. Specific libraries required are NumPy 1.19.2, Matplotlib and csv which come by default when one downloads and installs the Python 3.x version of the Anaconda data science toolkit (available for free [here](https://anaconda.org/ "Anaconda's Homepage")). Anaconda supports Windows, Mac and Linux operating systems. Its installation takes around 15 minutes. Algorithms were tested in Google Colab Notebook with Python 3.8.5.
+Mathematical algorithms require Python 3.6 or higher. Specific libraries required are NumPy 1.19.2, Matplotlib, Scipy, itertools and csv. These come by default when one downloads and installs the Python 3.x version of the Anaconda data science toolkit (available for free [here](https://anaconda.org/ "Anaconda's Homepage")). Anaconda supports Windows, Mac and Linux operating systems. Its installation takes around 15 minutes. Algorithms were tested in Google Colab Notebook with Python 3.8.5.
 
 Some ancillary results were derived in ```Host_Fitness.mw``` and ```cubic_coefficients.mws``` which using the symbolic computer algebra package Maple. This can be purchased [here](https://www.maplesoft.com/pricing/), however please note that often academic institutions have site licenses available to faculty and students free of charge.
 
@@ -22,15 +22,4 @@ To run the demo first open Anaconda Navigator and launch Jupyter Notebook. Navig
 
 The Demo takes around 2 minutes to run on a laptop equipt with an Intel Core i9-9980HK CPU and 50GB RAM.
 
-
-## Instructions for Use
-
-To explore the parameter space further the biological parameters (lines 36-40) can be changed. The table below matches the variable names given in the paper to those found in the code script.
-
-| Code name |  Paper name   | Biological interpretation                                  |
-|:---------:|:-------------:|:----------------------------------------------------------:|
-|     b     | b<sub>0</sub> | birth rate of infectives in the absence of immune response |
-|     u     |       μ       | background mortality rate                                  |
-|  nvals/n  |       n       | transmissibility exponent                                  |
-| lambdas/l |       λ       | cost to the host to clear the infection                    |
-|  vvals/v  |       v       | vertical transmission probability                          |
+Instructions on how to save all generated data are includes in the python notebook.
