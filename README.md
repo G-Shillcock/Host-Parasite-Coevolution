@@ -13,7 +13,7 @@ All hardware used was typical to a standard desktop or laptop computer.
 
 ## Python Setup
 
-For algorithms used by Shillcock et al., the user should download [Shillcock_et_al.ipynb](https://github.com/G-Shillcock/Host-Parasite-Coevolution/blob/94076fb928d4864fbb5c4c3910b6cd8fd1a4fa52/Shillcock_et_al.ipynb) and save it to their working directory. The Jupyter notebook explains the analysis behind the best response and morbidity plots (Figures 5 and 6 respectively).
+For algorithms used by Shillcock et al., the user should download this repository using the green ```Code``` button located in the top right. The python notebook [Shillcock_et_al.ipynb](https://github.com/G-Shillcock/Host-Parasite-Coevolution/blob/94076fb928d4864fbb5c4c3910b6cd8fd1a4fa52/Shillcock_et_al.ipynb) can then be extracted and saved to your working directory.
 
 
 ## Python Demo
