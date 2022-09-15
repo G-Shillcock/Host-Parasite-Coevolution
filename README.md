@@ -18,7 +18,7 @@ For algorithms used by Shillcock et al., the user should download this repositor
 
 ## Python Demo
 
-To run the demo first open Anaconda Navigator and launch Jupyter Notebook, navigate to where Shillcock_et_al.ipynb is saved, and open it. In the window that opens find the ```Cell``` tab and click ```Run All```. Alternatively, open an Anaconda prompt and type ```ipython``` to launch an interactive shell. Change directory with the command ```cd path```, where path is the directory where the file is saved. Finally, run the file with the command ```run Host_Parasite_Coevolution.ipynb```.
+To run the demo first open Anaconda Navigator and launch Jupyter Notebook, navigate to where Shillcock_et_al.ipynb is saved, and open it. In the window that opens find the ```Cell``` tab and click ```Run All```. Alternatively, open an Anaconda prompt and type ```ipython``` to launch an interactive shell. Change directory with the command ```cd path```, where path is the directory where the file is saved. Finally, run the file with the command ```run Shillcock_et_al.ipynb```.
 
 The Demo takes around 1 minutes to run on a laptop equipt with an Intel Core i9-9980HK CPU and 50GB RAM.
 
